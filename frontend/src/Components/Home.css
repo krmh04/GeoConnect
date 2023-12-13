@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Familjen+Grotesk&display=swap');
+
+.maintitle {
+  display: grid;
+  place-items: center;
+  letter-spacing: 1px;
+  min-height: 100vh;
+}
+
+.title h1,
+.title h2 {
+  font-family: 'Familjen Grotesk', sans-serif;
+  text-align: center;
+}
+.title h1 {
+  font-size: 5rem;
+  color: #EF9273;
+}
+.title h2 {
+  font-size: 3rem;
+  color: #fff;
+}
+
+.mappic img {
+  padding-top: 1rem;
+  height: 499px;
+  width: auto;
+  border-radius: 239px;
+  margin-left: 77px;
+
+}
+ 
